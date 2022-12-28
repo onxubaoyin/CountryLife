@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "countrylife:soewai"
+    }
+  ],
+  "result": {
+    "item": "countrylife:soe",
+    "count": 9
+  }
+}

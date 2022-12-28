@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "countrylife:san_e_yo"
+  },
+  "result": "countrylife:so_e_yo",
+  "experience": 0.35,
+  "cookingTime": 200
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    " Y ",
+    "ZZZ"
+  ],
+  "key": {
+    "X": {
+      "item": "countrylife:soe"
+    },
+    "Y": {
+      "item": "countrylife:you"
+    },
+    "Z": {
+      "item": "countrylife:wonbousho_zee"
+    }
+  },
+  "result": {
+    "item": "countrylife:wonbousho",
+    "count": 1
+  }
+}

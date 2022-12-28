@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "Y  "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:water_bucket"
+    },
+    "Y": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "countrylife:you",
+    "count": 1
+  }
+}

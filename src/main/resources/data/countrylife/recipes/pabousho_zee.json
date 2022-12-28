@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "###",
+    "YYY"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tall_grass"
+    },
+    "X": {
+      "item": "minecraft:grass"
+    },
+    "Y": {
+      "item": "minecraft:seagrass"
+    }
+  },
+  "result": {
+    "item": "countrylife:pabousho_zee",
+    "count": 1
+  }
+}

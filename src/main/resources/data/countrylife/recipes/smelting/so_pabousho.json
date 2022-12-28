@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "countrylife:pabousho"
+  },
+  "result": "countrylife:so_pabousho",
+  "experience": 0.35,
+  "cookingTime": 200
+}

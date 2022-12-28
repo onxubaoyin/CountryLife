@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "countrylife:soe"
+    }
+  },
+  "result": {
+    "item": "countrylife:soewai",
+    "count": 1
+  }
+}

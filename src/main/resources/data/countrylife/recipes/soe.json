@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "###",
+    "YYY"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+      "item": "minecraft:water_bucket"
+    },
+    "Y": {
+      "item": "minecraft:oak_leaves"
+    }
+  },
+  "result": {
+    "item": "countrylife:soe",
+    "count": 1
+  }
+}
